@@ -1,3 +1,5 @@
 This is my machine learnig projects
 
 KNN的案例一中的数据有三个特征和一个对应的类别 是一个约会对象匹配的有趣案例(datingTestSet2)
+
+DecisionTree是一个简单的利用信息熵原理选择信息增益最大的属性作为分类的属性，递归的拓展决策树的分枝，完成决策树的构造。
